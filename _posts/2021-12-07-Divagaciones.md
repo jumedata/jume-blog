@@ -29,7 +29,7 @@ Juan Fernando rompe el silencio del grupo y se nos acerca riendo, mira a Sebasti
 
 Sebastián y Nefatalí se miran, aprueban con la cabeza y casi al unisono dicen que Juan Fernando tiene razón. Los miro con severidad, les recuerdo que en realidad no sabemos si quien habla es Juan Fernando o Ricardo, que no podemos confiarnos del todo en lo que dice un tipo que no tiene claro quién es. Debo disculparme con Neftalí, por tratar de zafarme de Juan Fernando lo herí a él también con mi comentario.
 
-Neftalí me mira con tristeza meientras me dice:
+Neftalí me mira con tristeza mientras me dice:
 
 — Tal vez, escritor, el problema es que todos tenemos algo tuyo y casi a todos nos has dejado a medias.
 
