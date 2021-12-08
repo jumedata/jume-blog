@@ -31,6 +31,6 @@ Sebastián y Nefatalí se miran, aprueban con la cabeza y casi al unisono dicen 
 
 Neftalí me mira con tristeza mientras me dice:
 
-— Tal vez, escritor, el problema es que todos tenemos algo tuyo y casi a todos nos has dejado a medias.
+— Tal vez, escritor, el problema es que todos tenemos algo tuyo y casi a todos nos has dejado a medias —
 
 Tal vez yo, pienso, al igual que ellos, sigo estando a medias.
