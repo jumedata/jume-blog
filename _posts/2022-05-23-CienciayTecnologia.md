@@ -5,11 +5,9 @@ date: 2022-05-23
 categories: link
 ---
 
-[Astroaventura](https://astroaventura.net/)
-
-[Sapiens](https://www.sapiens.org/)
-
-[Cosmos](https://cosmosmagazine.com/)
+[Astroaventura](https://astroaventura.net/) 
+[Sapiens](https://www.sapiens.org/) 
+[Cosmos](https://cosmosmagazine.com/) 
 
 [Data Detox](https://datadetoxkit.org/en/home)
 
