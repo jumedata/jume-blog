@@ -9,6 +9,8 @@ categories: link
 [Sapiens](https://www.sapiens.org/)  
 [Cosmos](https://cosmosmagazine.com/)  
 [Data Detox](https://datadetoxkit.org/en/home)  
+
+## Noticias
 [Pijama Surf](https://pijamasurf.com/)  
 [Wired](https://www.wired.com/)  
 [Masahable](https://mashable.com/)  
