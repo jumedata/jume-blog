@@ -5,14 +5,36 @@ date: 2022-05-24
 categories: link
 ---
 
-[Escritores](https://www.escritores.org/)  
-[Encontrar Ideas](https://concursoeltinterodeoro.blogspot.com/2020/09/ideas-para-encontrar-ideas.html)  
-[Fabulas Chinas](https://www.um.es/tonosdigital/znum10/secciones/tri-fabulas.htm)  
+## Textos
+
+[Ciudad Seva](https://ciudadseva.com/)  
 [Cuentos Chinos](https://www.um.es/tonosdigital/znum10/secciones/tri-cuentos.htm)  
-[Narrativa Breve](https://narrativabreve.com/)  
-[Ciudad Seva](https://ciudadseva.com/cultura)  
-[Literalgia](https://www.literalgia.com/elbuenlibrero)  
-[El Buen Librero](https://elbuenlibrero.com/)  
+[e-Kuóreo](https://e-kuoreo.blogspot.com/)  
+[Fabulas Chinas](https://www.um.es/tonosdigital/znum10/secciones/tri-fabulas.htm)  
 [Los Cuentos](https://www.loscuentos.net/)  
 [100 Cuentos](http://comoescribiruncuento.blogspot.com/2014/05/100-grandes-cuentos-de-la-literatura.html?m=1)  
-[Dystopia](https://www.openculture.com/2016/11/an-animated-introduction-to-dystopian-fiction.html)  
+[Narrativa Breve](https://narrativabreve.com/)  
+
+## Revistas
+
+[Encontrar Ideas](https://concursoeltinterodeoro.blogspot.com/2020/09/ideas-para-encontrar-ideas.html)  
+[El Buen Librero](https://elbuenlibrero.com/)  
+[Escritores](https://www.escritores.org/)  
+[Libros y Letras](https://www.librosyletras.com/)  
+[Literalgia](https://www.literalgia.com/)  
+
+## Libreria y Editoriales
+
+[Club de Escritura](https://clubdeescritura.com/)  
+[Letra Minuscula](https://www.letraminuscula.com/)  
+[LuaBooks](https://www.luabooks.com/)  
+[Mirabilia](https://mirabilia.com.co/3-libreria)  
+[Minotauro](https://www.planetadelibros.com/editorial/minotauro/21)  
+[Taller de Edición](https://tallerdeedicion.com/)  
+[Torre de Historias](https://torredehistorias.com/)  
+
+
+
+
+
+
