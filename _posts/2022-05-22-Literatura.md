@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "Literatura"
-date: 2022-05-24
+date: 2022-05-22
 categories: link
 ---
 
@@ -22,11 +22,13 @@ categories: link
 [Escritores](https://www.escritores.org/)  
 [Libros y Letras](https://www.librosyletras.com/)  
 [Literalgia](https://www.literalgia.com/)  
+[Literariedad](https://literariedad.co/)  
 
 ## Libreria y Editoriales
 
 [Club de Escritura](https://clubdeescritura.com/)  
 [Letra Minuscula](https://www.letraminuscula.com/)  
+[Lexus Editores](https://www.lexuseditores.com.co/)  
 [LuaBooks](https://www.luabooks.com/)  
 [Mirabilia](https://mirabilia.com.co/3-libreria)  
 [Minotauro](https://www.planetadelibros.com/editorial/minotauro/21)  
