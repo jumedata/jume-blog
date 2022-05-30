@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Medios Alternativos"
-date: 2022-05-23
+date: 2022-05-20
 categories: link
 ---
 
@@ -22,7 +22,7 @@ categories: link
 [La Silla Vacía](https://www.lasillavacia.com/la-silla-vacia/)  
 [Pacifista](https://pacifista.tv/)  
 [Razón Pública](https://razonpublica.com/)  
-[Rebelion](https://rebelion.org)  
+[Rebelión](https://rebelion.org)  
 [Rutas del Conflicto](https://rutasdelconflicto.com/)  
 [United Explanations](https://www.unitedexplanations.org/)  
 [Un Pasquín](https://www.unpasquin.com/)  

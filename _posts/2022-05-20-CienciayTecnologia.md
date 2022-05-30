@@ -19,13 +19,27 @@ categories: link
 [Open Culture](https://www.openculture.com/)  
 [Pijama Surf](https://pijamasurf.com/)  
 [Sapiens](https://www.sapiens.org/)  
+[Speed Guide](https://www.speedguide.net/)  
 [The Next Web](https://thenextweb.com/)  
 [Wired](https://www.wired.com/)  
 
-## Guides
-
-[Linux Handbook](https://linuxhandbook.com/)  
-
 ## Data Analysis
+
 [Data Journalism Handbook](https://datajournalism.com/read/handbook/one)  
 [Data Detox](https://datadetoxkit.org/en/home)  
+
+## Maths
+
+[Free Online Physics](https://phet.colorado.edu)  
+[Math Online](https://www.myopenmath.com/)  
+[Statistics](https://onlinestatbook.com/)  
+
+## Open Source
+
+[IFPS File System](https://docs.ipfs.io/)  
+[Kifar Unix](https://kifarunix.com/)  
+[Hakcers Arise](https://www.hackers-arise.com/)  
+[Linux Handbook](https://linuxhandbook.com/)  
+[Open Education](https://open.bccampus.ca/)  
+[Open Source](https://opensource.com/)  
+

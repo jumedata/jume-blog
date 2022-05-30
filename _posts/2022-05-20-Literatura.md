@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "Literatura"
-date: 2022-05-22
+date: 2022-05-20
 categories: link
 ---
 
@@ -20,11 +20,13 @@ categories: link
 [Encontrar Ideas](https://concursoeltinterodeoro.blogspot.com/2020/09/ideas-para-encontrar-ideas.html)  
 [El Buen Librero](https://elbuenlibrero.com/)  
 [Escritores](https://www.escritores.org/)  
+[Letras Libres](https://letraslibres.com/)
 [Libros y Letras](https://www.librosyletras.com/)  
 [Literalgia](https://www.literalgia.com/)  
 [Literariedad](https://literariedad.co/)  
+[Wikilengua](https://www.wikilengua.org/index.php/Portada)  
 
-## Libreria y Editoriales
+## Librerías y Editoriales
 
 [Club de Escritura](https://clubdeescritura.com/)  
 [Letra Minuscula](https://www.letraminuscula.com/)  
@@ -35,6 +37,15 @@ categories: link
 [Taller de Edición](https://tallerdeedicion.com/)  
 [Torre de Historias](https://torredehistorias.com/)  
 
+## Bibliotecas
+
+[Aprender en Casa](http://aprendedigitalqa-2012125942.us-east-1.elb.amazonaws.com/) 
+[Biblioteca Mosquera](https://biblioteca.apps-mosquera.gov.co/)  
+[IntechOpen](https://www.intechopen.com/)  
+[Open Library](https://openlibrary.org/)  
+[OpenStax](https://openstax.org/)  
+[Secretos para Contar](https://libros.secretosparacontar.org/)  
+[Unam Digital](http://www.materialdelectura.unam.mx/)  
 
 
 
