@@ -20,11 +20,13 @@ categories: link
 
 [Encontrar Ideas](https://concursoeltinterodeoro.blogspot.com/2020/09/ideas-para-encontrar-ideas.html)  
 [El Buen Librero](https://elbuenlibrero.com/)  
+[El Magazín](https://www.elespectador.com/el-magazin-cultural/)  
 [Escritores](https://www.escritores.org/)  
 [Letras Libres](https://letraslibres.com/)
 [Libros y Letras](https://www.librosyletras.com/)  
 [Literalgia](https://www.literalgia.com/)  
 [Literariedad](https://literariedad.co/)  
+[Literary Hub](https://lithub.com/)  
 [Wikilengua](https://www.wikilengua.org/index.php/Portada)  
 
 ## Librerías y Editoriales

@@ -30,6 +30,7 @@ categories: link
 
 ## Maths
 
+[Abackus](https://abakcus.com/)  
 [Free Online Physics](https://phet.colorado.edu)  
 [Math Online](https://www.myopenmath.com/)  
 [Statistics](https://onlinestatbook.com/)  
