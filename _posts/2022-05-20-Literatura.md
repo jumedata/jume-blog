@@ -39,7 +39,7 @@ categories: link
 
 ## Bibliotecas
 
-[Aprender en Casa](http://aprendedigitalqa-2012125942.us-east-1.elb.amazonaws.com/) 
+[Aprender en Casa](http://aprendedigitalqa-2012125942.us-east-1.elb.amazonaws.com/)  
 [Biblioteca Mosquera](https://biblioteca.apps-mosquera.gov.co/)  
 [IntechOpen](https://www.intechopen.com/)  
 [Open Library](https://openlibrary.org/)  
