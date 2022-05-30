@@ -12,6 +12,7 @@ categories: link
 [e-Kuóreo](https://e-kuoreo.blogspot.com/)  
 [Fabulas Chinas](https://www.um.es/tonosdigital/znum10/secciones/tri-fabulas.htm)  
 [Los Cuentos](https://www.loscuentos.net/)  
+[Lugar Poema](https://www.lugarpoema.com/)  
 [100 Cuentos](http://comoescribiruncuento.blogspot.com/2014/05/100-grandes-cuentos-de-la-literatura.html?m=1)  
 [Narrativa Breve](https://narrativabreve.com/)  
 
