@@ -20,7 +20,7 @@ categories: link
 [The Electric Typewriter](https://tetw.org/)  
 [Panorama Cultural](https://panoramacultural.com.co)  
 [Revista Colombiana de Sociología](https://revistas.unal.edu.co/index.php/recs)  
-[Unicerso Centro](https://universocentro.com.co/)  
+[Universo Centro](https://universocentro.com.co/)  
 [Verdad Abierta](https://verdadabierta.com/)  
 [Yorokobu](https://www.yorokobu.es/)  
 
@@ -43,9 +43,13 @@ categories: link
 
 ## TV & Documentaries Sites
 
+[Cinefilia Laversa](https://cinefiliamalversa.blogspot.com/)  
+[Classic Cinema](https://www.classiccinemaonline.com/)  
 [Documentary Heaven](https://documentaryheaven.com/)  
+[Legalmente Gratis](http://legalmentegratis.com.ar/)  
 [Link TV](https://www.linktv.org/)  
 [Poseidon](https://www.poseidonhd.org/)  
+[RTVC Play](https://www.rtvcplay.co/)  
 [Top Documentaries](https://topdocumentaryfilms.com/)  
 
 ## Languages
