@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Medios Alternativos"
 date: 2022-05-20
@@ -10,6 +10,7 @@ categories: link
 [Agencia UNAL](http://agenciadenoticias.unal.edu.co/)  
 [Baudó](https://baudoap.com/)  
 [Cambio](https://cambiocolombia.com/)  
+[Contexto y Acción](https://ctxt.es/)  
 [Cuestión Pública](https://cuestionpublica.com/)  
 [Desde Abajo](https://www.desdeabajo.info/)  
 [El Unicornio](https://www.elunicornio.co/)  

@@ -20,6 +20,7 @@ categories: link
 [Pijama Surf](https://pijamasurf.com/)  
 [Sapiens](https://www.sapiens.org/)  
 [Speed Guide](https://www.speedguide.net/)  
+[Team Human](https://www.teamhuman.fm/)  
 [The Next Web](https://thenextweb.com/)  
 [Wired](https://www.wired.com/)  
 

@@ -10,6 +10,7 @@ categories: link
 [Academia Play](https://academiaplay.es/)  
 [Agenda Propia](https://www.agendapropia.co/)  
 [Atlantic](https://www.theatlantic.com/world/)  
+[Bloghemia](https://www.bloghemia.com/)  
 [Comisión de la Verdad](https://comisiondelaverdad.co/)  
 [Edge](https://www.edge.org/)  
 [Enciclopedia Latinoamericana](http://latinoamericana.wiki.br/es)  
