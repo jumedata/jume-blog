@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Cultura y Sociedad"
 date: 2022-05-20
@@ -14,12 +14,14 @@ categories: link
 [Comisión de la Verdad](https://comisiondelaverdad.co/)  
 [Edge](https://www.edge.org/)  
 [Enciclopedia Latinoamericana](http://latinoamericana.wiki.br/es)  
+[Ethic](https://ethic.es/)  
 [HJCK](https://hjck.com/)  
 [Institute for Palestine Studies](https://www.palestine-studies.org)  
 [Internet Archive](https://archive.org/)  
 [Jot Down](https://www.jotdown.es/)  
 [The Electric Typewriter](https://tetw.org/)  
 [Panorama Cultural](https://panoramacultural.com.co)  
+[Pueblos Originarios](https://pueblosoriginarios.com/)  
 [Revista Colombiana de Sociología](https://revistas.unal.edu.co/index.php/recs)  
 [Universo Centro](https://universocentro.com.co/)  
 [Verdad Abierta](https://verdadabierta.com/)  
@@ -32,6 +34,7 @@ categories: link
 [Creativity Type](https://mycreativetype.com/)  
 [De Digger](https://www.dedigger.com)  
 [Didactalia](https://didactalia.net/en/community/materialeducativo)  
+[Neal Fun](https://neal.fun/)  
 [The Pudding](https://pudding.cool/)  
 [The Fucking Home Page](https://fuckinghomepage.com/websites)  
 [SuperCartoons](https://www.supercartoons.net/)  
