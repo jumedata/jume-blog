@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily Read"
+title: "Lectura Diaria"
 date: 2022-05-20
 categories: link
 ---
