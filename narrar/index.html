@@ -5,7 +5,7 @@ title: Narración
 	<h1>{{ page.title }}</h1>
 	
 	<h2>Cortos</h2>
-	<ul class="narrar">
+	<ul class="corto">
 
 	  {% for post in site.categories.narrar %}
 	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
@@ -13,6 +13,14 @@ title: Narración
 	</ul>
 
 	<h2>Largos</h2>
+	<ul class="narrar">
+
+	  {% for post in site.categories.narrar %}
+	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+
+	<h2>Infantil</h2>
 	<ul class="narrar">
 
 	  {% for post in site.categories.narrar %}
